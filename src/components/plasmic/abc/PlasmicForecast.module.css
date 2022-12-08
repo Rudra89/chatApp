@@ -1,0 +1,136 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  min-width: 0;
+}
+.freeBox__xQiHm {
+  display: flex;
+  position: relative;
+  height: auto;
+  width: 86px;
+  justify-content: center;
+}
+.img {
+  display: flex !important;
+  position: relative;
+  object-fit: cover;
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.imgvariants_row {
+  left: auto;
+  top: auto;
+}
+.freeBox___3TZq4 {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+}
+.freeBox___3TZq4 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox___3TZq4 > :global(.__wab_flex-container) > *,
+.freeBox___3TZq4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___3TZq4 > :global(.__wab_flex-container) > picture > img,
+.freeBox___3TZq4
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.freeBoxvariants_row___3TZq4Wk5BQ {
+  left: auto;
+  top: auto;
+  display: flex;
+}
+.text__xFbtQ {
+  position: relative;
+}
+.textvariants_row__xFbtQwk5BQ {
+  left: auto;
+  top: auto;
+}
+.text___7YBlc {
+  position: relative;
+  color: rgb(172, 172, 172);
+}
+.textvariants_row___7YBlcwk5BQ {
+  left: auto;
+  top: auto;
+}
+.freeBox__gM6Y0 {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+}
+.freeBox__gM6Y0 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: calc(0px - 4px);
+  width: calc(100% + 4px);
+}
+.freeBox__gM6Y0 > :global(.__wab_flex-container) > *,
+.freeBox__gM6Y0 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__gM6Y0 > :global(.__wab_flex-container) > picture > img,
+.freeBox__gM6Y0
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 4px;
+}
+.freeBoxvariants_row__gM6Y0Wk5BQ {
+  left: auto;
+  top: auto;
+  display: flex;
+}
+.text__nu3C8 {
+  position: relative;
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(172, 172, 172);
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  user-select: text;
+  text-overflow: clip;
+}
+.textvariants_row__nu3C8Wk5BQ {
+  left: auto;
+  top: auto;
+}
+.text__si0Wk {
+  position: relative;
+  color: rgb(172, 172, 172);
+  font-size: 12px;
+}
+.textvariants_row__si0Wkwk5BQ {
+  left: auto;
+  top: auto;
+}
